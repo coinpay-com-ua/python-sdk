@@ -11,11 +11,13 @@ COINPAY.ua - payment platform that provides:
 This library requires Python version from 3.5 to 3.9.
 
 Please note that this library also uses requests and certifi. These libraries' supported Python versions can differ from the versions supported by coinpay_sdk
+
 ## Installation
 We recommend using [PyPI](https://pypi.org/project/coinpay_sdk/) to install the COINPAY Software Development Kit for Python.
 ```bash
 $ pip install coinpay_sdk
 ```
+
 ## Usage
 After the [registration](https://coinpay.ua/), api_key and api_secret will become available.
 You can get them [here](https://coinpay.ua/settings/).
